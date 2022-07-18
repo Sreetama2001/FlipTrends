@@ -1,0 +1,99 @@
+@import url('<link href="https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner:wght@600&family=Lemonada:wght@400;500;600&display=swap" rel="stylesheet">');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    --primary-color: #333;
+    --white-color: #fff;
+    --dark-grey: #3c4857;
+    --light-grey: #dedede;
+    --card-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2),
+                0 1px 5px 0 rgba(0, 0, 0, 0.12);
+    --image-shadow: 0 16px 38px -12px rgba(0, 0, 0, 0.56), 0 4px 25px 0 rgba(0, 0, 0, 0.12),
+                0 8px 10px -5px rgba(0, 0, 0, 0.2);
+}
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 1.5em;
+    background-color: white;
+}
+header{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+header h2 {
+    font-weight: bolder;
+    font-size: 40px;
+    /* padding-bottom: 30px; */
+    padding-top: 30px;
+    color: #282c34;
+}
+.navbar span{
+    font-size: 25px;
+    font-weight: bolder;
+    color: white;
+}
+.section-cards{
+    padding-right: 15px;
+    padding-top: 20px;
+}
+.section-cards .card{
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    height: 85%;
+    margin: 30px 0;
+    border-radius: 6px;
+    padding-bottom: 30px;
+    padding-top: 10px;
+    color: rgba(0, 0, 0, 0.87);
+    background-color: var(--white-color);
+    box-shadow: var(--card-shadow);
+}
+.section-cards .card .card-img{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: -35px;
+    box-shadow: var(--image-shadow);
+    border-radius: 6px;
+    background-size: cover;
+}
+.section-cards .card .card-img:hover{
+    transform: scale(1.03);
+    transition: 0.8s;
+}
+.section-cards .card .content{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+.section-cards .card .content .caption a:hover{
+    color: brown;
+    text-decoration: underline;
+}
+.section-cards .card .content .caption,
+.section-cards .card .content .caption a{
+    color: #282c34;
+    text-decoration: none;
+}
+.img-fluid {
+    max-width: 100%;
+    height: 100%;
+}
+.container-fluid img{
+    height: 38%;
+    width: 38%;
+}
