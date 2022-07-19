@@ -1,2 +1,4 @@
 # FlipTrends
-Flipkart Grid 4.0
+todo 
+Website
+text processing
