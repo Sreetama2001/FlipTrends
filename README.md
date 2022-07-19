@@ -1,2 +1,11 @@
 # FlipTrends
-Flipkart Grid 4.0
+Todo 
+
+TEXT processing
+
+
+
+undergoing
+
+
+Automating flipkart
