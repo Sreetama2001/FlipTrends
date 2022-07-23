@@ -1,5 +1,0 @@
-API_Key ="oRHs5JpjCAbsvoMPVp7MngQHs"
-API_Key_Secret="p3t9x2xjsXQEO9sasDejAN34Zl850grINdKS13Q1k38URLof56"
-access_token="1330766381659410432-qE4BTYpAJnQXx4IAq6O5TcmuO3r09C"
-access_token_secret="rXcWoMvCEHpQMPiWZnN2uQ92uEe2b7NHsIVrCBbYYkCrN"
-i_woeid=23424848
