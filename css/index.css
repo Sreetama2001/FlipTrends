@@ -41,9 +41,8 @@ header {
     align-items: center;
     overflow: auto;
     font-size: small;
-
 }
-
+/* ______________________________________________heading___________________________________________________ */
 #category_heading {
     font-weight: bolder;
     font-family: 'Shojumaru', cursive;
@@ -91,8 +90,8 @@ header::-webkit-scrollbar {
 }
 
 .myCard {
-    padding-left: 45px;
-    padding-right: 45px;
+    padding-left: 34px;
+    padding-right: 34px;
     margin-bottom: 5px;
 }
 
@@ -131,14 +130,14 @@ header::-webkit-scrollbar {
 .caption a:hover {
     color: #61dafb;
 }
-
 /* ___________________________________________________________________landing page ________________________________________________________ */
 main {
     background-color: #282c34;
+   
 }
 
 main .row {
-    min-height: 71.5vh;
+    min-height: 83.5vh;
     display: flex;
     justify-content: space-evenly;
 }
