@@ -137,11 +137,11 @@ h6 {
     width: 100%;
 }
 
-#category_card:hover {
+/* #category_card:hover {
     transform: scale(1.1);
     transition: all 300ms ease-in-out;
     z-index: 2;
-}
+} */
 
 #category_card .card-img,
 #category_card .card-img-bottom {
