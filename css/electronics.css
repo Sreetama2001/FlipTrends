@@ -5,7 +5,9 @@
 
 html {
     scroll-behavior: smooth;
-}
+    padding: 0;
+    margin: 0;
+  }
 
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -229,7 +231,22 @@ h6 {
     vertical-align: baseline;
     border-radius: 0.25rem;
 }
-
+/*-----------chart-------------*/
+#chart-bg{
+    background-color:#282c34
+}
+#chart-heading{
+    color:white;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+}
+#Chart{
+    border:5px solid  rgb(247, 73, 102);
+    border-radius: 10px;
+    background-color:white;
+    
+}
 @media (max-width: 668px) {
     #menu .myCard {
         padding-left: 0px;
