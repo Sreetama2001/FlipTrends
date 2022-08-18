@@ -7,6 +7,7 @@ To explain further , suppose you want get a tshirt from Flipkart regarding a vir
 
 And searching it on Flipkart is really tiring , so you can use our app to get the best results with few clicks!!
 
+Will upload the model soon ....
 
 
 
