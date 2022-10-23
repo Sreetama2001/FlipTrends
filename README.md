@@ -1,4 +1,2 @@
 # FlipTrends
-Flipkart Grid 4.0
-
-https://sreetama2001.github.io/FlipTrends/
+### A New way to visiualize social media trends 
